@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+      
+      <title> Curriculum </title>
+      <meta charset= "UTF-8">
+      <link rel="stylesheet" type="text/css" href="estilos.css">
+
+</head>
+<body >
+
+  <div class="nombre">
+    <div class="image">
+      <img src="Tipo1.jpg">
+    </div>
+    <div class="contenido">
+        <p class="p1">Wladimir Aranguren</p>
+        <p class="p2">21 años, Bachiller Ciencias</p>
+    </div>
+  </div>
+
+    <div class="informacion">
+        <p class="titulo">Datos Personales</p>
+        <p class="tituloIn">Nombre y Apellidos:</p>
+        <p class="infoinfo">Wladimir Alejandro Aranguren Barreto</p><br>
+        <p class="tituloIn">Cédula:</p>
+        <p class="infoinfo">28.408.498</p><br>
+        <p class="tituloIn">Telefono:</p>
+        <p class="infoinfo">0412.439.46.26</p><br>
+        <p class="tituloIn">Correo Gmail:</p>
+        <p class="infoinfo">wladimiraranguren5@gmail.com</p><br>
+        <p class="tituloIn">Dirección:</p>
+        <p class="infoinfo">Brisas Del Valle Sector 1</p><br>
+        <p class="tituloIn">Fecha De Nacimiento:</p>
+        <p class="infoinfo">06 de Agosto del 2001</p><br>
+        <p></p>
+    </div>
+
+    <div class="informacion">
+      <p class="titulo">Formación Academica</p>
+      <p class="tituloIn">Liceo:</p>
+      <p class="infoinfo">Bachillerato Liceo Juan German Roscio (2018).</p><br>
+      <p class="tituloIn">Universidad:</p>
+      <p class="infoinfo">(En Curso) Ingenieria En Sistema.</p>
+    </div>
+
+    <div class="informacion">
+      <p class="titulo">Experiencia Laboral</p>
+      <p class="infoinfo">- Aprendizaje en Html , Css y Js.</p><br>
+      <p class="infoinfo">- Lenguaje en programación Java y PHP.</p><br>
+      <p class="infoinfo">- Desarrollo de videojuegos</p><br>
+      <p class="infoinfo">- Excel</p><br>
+    </div>
+
+    <div class="informacion">
+      <p class="titulo">Redes Sociales</p>
+      <p class="imagen1"><a href="https://www.facebook.com/wladimir.aranguren.14" target="_blank" >
+        <img src="face.png" width="50px" height="50px">
+      </a></p><br>
+      <br>
+      <p class="imagen1"><a href="https://www.instagram.com/wladimir_on/" target="_blank" >
+        <img src="Insta.webp" width="50px" height="50px">
+      </a></p><br>
+    </div>
+
+    <div class="informacion">
+      <p class="titulo">Pasatiempos</p>
+      <span>Basket</span><br>
+      <br>
+      <span>Futboll</span><br>
+      <br>
+      <span>Programar</span><br>
+      <br>
+      <span>Leer</span><br>
+    </div>
+
+   </body>
+</html>
